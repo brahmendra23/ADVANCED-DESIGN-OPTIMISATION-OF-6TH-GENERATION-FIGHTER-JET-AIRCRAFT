@@ -30,7 +30,7 @@
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Course Opted:</strong> AUTOCAD & SOLIDWORKS FOR MECHANICAL ENGINEERS </p>
-    <p><strong>Instructor Name:</strong> Mr. Yallasiri Shanmuka RaviTeja </p>
+    <p><strong>Instructor Name:</strong> Mr. Yallasiri Shanmukha RaviTeja </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Duration:</strong> 6 Months </p>
@@ -40,7 +40,7 @@
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> Mr. Yallasiri Shanmuka RaviTeja </p>
+<p><strong>Trainer Name:</strong> Mr. Yallasiri Shanmukha RaviTeja </p>
 <p><strong>Trainer Email ID:</strong> yallasiriraviteja164@gmail.com </p>
 <p><strong>Trainer Designation:</strong> Junior Design Engineer- Sedin Engineering </p>
 
@@ -181,5 +181,5 @@ The internship certificate serves as an official acknowledgment of the successfu
 <!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
-- [Mr. Yallasiri Shanmuka RaviTeja](https://www.linkedin.com/in/shanmukha-ravi-teja-yallasiri-443b131a7/) , Trainer & Mentor(AutoCAD & Solidworks) - [SURE Trust](https://www.suretrustforruralyouth.com/)
+- [Mr. Yallasiri Shanmukha RaviTeja](https://www.linkedin.com/in/shanmukha-ravi-teja-yallasiri-443b131a7/) , Trainer & Mentor(AutoCAD & Solidworks) - [SURE Trust](https://www.suretrustforruralyouth.com/)
 
