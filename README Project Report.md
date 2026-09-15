@@ -151,7 +151,7 @@ My experience in community service at Sure Trust was meaningful and enriching. P
 <!-- add your photos below -->
 <!-- change url below with your image urls (inside  src='')-->
 
-- These are just placeholder (sample) images <!-- remove this line -->
+
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/5b89d16b-56c4-4cfa-8912-793f117f9afc" 
