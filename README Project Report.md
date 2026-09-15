@@ -79,7 +79,7 @@ The Sure Trust internship provided valuable practical exposure to aerospace conc
 <h3 id="project1">Project 1: ADVANCED DESIGN OPTIMISATION OF 6TH GENERATION FIGHTER JET AIRCRAFT </h3>
 The project “Advanced Design Optimisation of 6th Generation Fighter Jet Aircraft” focuses on the conceptual design and 3D CAD modeling of a next-generation fighter aircraft with emphasis on aerodynamic efficiency, stealth characteristics, and innovative design. The project involves literature review, conceptual sketching, 2D drafting using AutoCAD, design calculations, and 3D modeling using SOLIDWORKS. The proposed aircraft incorporates features such as a blended airframe, cranked-arrow wing, DSI intake, serrated trailing edge, canted vertical stabilizers, and twin engines, along with a conceptual internal arrangement of major aircraft systems. The project provides a foundation for further CFD analysis, design optimization, and prototype development.
 <p>
-  <a href="https://github.com/sure-trust/BRAHMENDRA-E-g14-autocad/blob/8bd29383b16f0aad0bfcce9394f3cf8383182132/Course%20report/Project%20Report.docx" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href=https://github.com/brahmendra23/ADVANCED-DESIGN-OPTIMISATION-OF-6TH-GENERATION-FIGHTER-JET-AIRCRAFT/blob/main/Project%20Report.pdf><strong>→ View Full Project Report</strong></a>
 </p>
 
 
